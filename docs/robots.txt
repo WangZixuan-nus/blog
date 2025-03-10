@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://WangZixuan-nus.github.io/blog/sitemap.xml 
