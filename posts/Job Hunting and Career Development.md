@@ -1,0 +1,2 @@
+# Introduction:
+Landing a job in data science, finance, or analytics requires more than just technical knowledge—it’s about strategy, preparation, and networking. In this section, I will share my experiences with job applications, resume building, interview preparation, and industry insights. My focus will be on roles in financial analytics, banking, and data-driven decision-making. I will also document useful tips from professionals and my reflections on the job market.
