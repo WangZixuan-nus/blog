@@ -1,8 +1,8 @@
 [
     {
-        "title": "Wang Zixuan's Blog",
+        "title": "About Me",
         "time": "2025-03-11",
-        "file": "posts/20250311-1.md"
+        "file": "posts/About Me.md"
     },
     {
         "title": "My Learning Notes",
@@ -10,8 +10,8 @@
         "file": "posts/Study Notes.md"
     },
     {
-        "title": "Wang Zixuan's Curriculum Vitae",
+        "title": "Job Hunting and Career Development",
         "time": "2025-03-11",
-        "file": "posts/20250311-3.md"
+        "file": "posts/Job Hunting and Career Development.md"
     }
 ]
